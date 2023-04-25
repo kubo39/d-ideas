@@ -21,3 +21,11 @@ replace libevent2 with eventcore
 
 - https://github.com/huggingface/transformers
   - BERT, GPT
+
+## Faster float parsing
+
+use eisel-lemire algorithm
+
+## Faster decimal-to-float
+
+use dragonbox or schubfach
