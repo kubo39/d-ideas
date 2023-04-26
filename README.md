@@ -5,7 +5,7 @@
 - from scratch
 - binding (glib or C++)
 
-## Advisory system
+## Vulnerability management
 
 something like `govulncheck` or `cargo-audit`
 
