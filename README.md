@@ -39,3 +39,7 @@ use dragonbox or schubfach
 
 - support multivalue
 - wasi support
+
+## CTFE Interpreter
+
+Add support for atan2 in builtin.d
