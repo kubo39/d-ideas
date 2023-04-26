@@ -7,7 +7,7 @@
 
 ## Advisory system
 
-something like `go vet` or `cargo-audit`
+something like `govulncheck` or `cargo-audit`
 
 ## gRPC library
 
