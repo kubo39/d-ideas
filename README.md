@@ -29,3 +29,13 @@ use eisel-lemire algorithm
 ## Faster decimal-to-float
 
 use dragonbox or schubfach
+
+## regex optmize
+
+- literals optimization
+- Lazy DFA
+
+## wasm
+
+- support multivalue
+- wasi support
