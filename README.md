@@ -43,3 +43,7 @@ use dragonbox or schubfach
 ## CTFE Interpreter
 
 Add support for atan2 in builtin.d
+
+## Faster std.file.copy
+
+use copy_file_range(2)
